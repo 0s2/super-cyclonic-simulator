@@ -202,6 +202,7 @@ const HELP_TEXT = "Keyboard Controls:\n" +
     '\t\t\t\t0 - Category 10* Tropical Cyclone\n' +
     '\t\t\t\tY - Hypercane*\n' +
     '\t\t\t\tX - Supermassive Black Hole*\n' +
+    '\t\t\t\tQ - Quasar*\n' +
     '\t\t\t\t\t*must use Extended Saffir-Simpson scale to see C6+ storms';
 
 const COLORS = {};      // For storing all colors used in the graphics
