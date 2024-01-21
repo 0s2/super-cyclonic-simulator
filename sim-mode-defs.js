@@ -169,12 +169,12 @@ SPAWN_RULES.defaults.archetypes = {
         pressure: 0,
         windSpeed: 1500
     },
-        
+    
     'q': {
         inherit: 'tc',
-        pressure: -4200,
+        pressure: 0,
         windSpeed: 5000
-    }   
+    }
 };
 
 SPAWN_RULES.defaults.doSpawn = function(b){
